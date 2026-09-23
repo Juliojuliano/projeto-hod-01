@@ -87,11 +87,10 @@ display: block;
     @keyframes mudarImagem{
         from{
             opacity: 0.85;
-            to{
-                opacity: 1;
-            }
         }
-        
+        to{
+            opacity: 1;
+        }
     }
 
     main:after{
